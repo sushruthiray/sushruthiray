@@ -1,6 +1,6 @@
 ![MasterHead](https://www.ascend.io/wp-content/uploads/2023/05/shutterstock_1169239234-1024x439.jpg)
 <h1 align="center">Hi 👋, I'm Sushrut Hiray</h1>
-<h3 align="center">Passionate Data Engineer and Analyst skilled in Python, SQL, and AWS, with a knack for crafting efficient ETL pipelines and compelling visualizations to drive data-driven insights</h3>
+<h3 align="center">A passionate Data Engineer and Analyst skilled in Python, SQL, and AWS, with a knack for crafting efficient ETL pipelines and compelling visualizations to drive data-driven insights</h3>
 <img align ="center" alt="Coding" width="1200" src="https://analytics-smart.com/wp-content/uploads/2022/06/Data-Science1-1.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sushruthiray&label=Profile%20views&color=0e75b6&style=flat" alt="sushruthiray" /> </p>
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" width = "492" src="https://github-readme-stats.vercel.app/api?username=sushruthiray&show_icons=true&locale=en" alt="sushruthiray" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushruthiray&" alt="sushruthiray" /></p>
+<p><img align="center" width = "492" src="https://github-readme-streak-stats.herokuapp.com/?user=sushruthiray&" alt="sushruthiray" /></p>
