@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Azure, Scala, Snowflake, Databricks**
 
-- 👯 I’m looking to collaborate with **Data Engineers, Data Analyst**
-
 - 💬 Ask me about **Data Automation, Data Optimization and BI**
 
-- 📫 How to reach me **sushruthiray12@gmail.com**
+- 📫 How to reach me **:sushruthiray12@gmail.com**
 
 - ⚡ Fun fact **I am a huge Liverpool and Celtics fan**
 
