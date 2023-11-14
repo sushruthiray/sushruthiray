@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Azure, Scala, Snowflake, Databricks**
 
-- 👯 I’m looking to collaborate on **Data Engineers, Data Analyst**
+- 👯 I’m looking to collaborate with **Data Engineers, Data Analyst**
 
 - 💬 Ask me about **Data Automation, Data Optimization and BI**
 
